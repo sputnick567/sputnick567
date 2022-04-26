@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I just wanted to add a little bit of spice to my GitHub account.
+I know Java, Python, Javascript, HTML, CSS, a little bit Go and I have programmed Minecraft Plugins using spigot.
