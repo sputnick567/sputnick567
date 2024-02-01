@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I know Java, Python, Javascript, HTML, CSS, a little bit Go and I have programmed Minecraft Plugins using spigot.
+I know Java, Python, Javascript, HTML, CSS, a little bit PHP and I have programmed Minecraft Plugins using spigot.
